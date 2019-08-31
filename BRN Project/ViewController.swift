@@ -16,6 +16,9 @@ class ViewController: UIViewController {
         var d = 121
         
         
+        var b = 1212
+        
+        
         // Do any additional setup after loading the view, typically from a nib.
     }
 
